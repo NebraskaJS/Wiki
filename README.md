@@ -1,1 +1,1 @@
-Soft redirect to the [GitHub Wiki Pages](/NebraskaJS/Wiki/wiki).
+Soft redirect to the [GitHub Wiki Pages](wiki).
